@@ -1,0 +1,94 @@
+body { 
+    background-color: #041821;
+    color: white;
+}
+
+header {
+    display: flex;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    align-items: center;
+    border-bottom: 1px solid;
+}
+
+
+.margin0 {
+    margin: 0%;
+    width: 10%;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    position: relative;
+    right: 2px;
+    width: 100%;
+    text-align: right;
+ }
+
+.midpage {
+    width: 50%;
+}
+
+.sectioncentrale {
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 25px;
+}
+
+/* la grille avec les images */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0.5em;
+    margin-top: 15px;
+  }
+  
+.grid img {
+    width: 100%;
+    object-fit: cover;
+}
+
+#iconsreseaux {
+    padding-right: 10px;
+}
+
+span {
+    color: #1bd79e;
+}
+
+.navdumilieu {
+    background-color: #041821;
+    color: var(--texte);
+    border: none;
+    letter-spacing: 0.25em;
+    font-weight: lighter;
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+#portrait {
+    background-color: #1bd79e;
+}
+
+/* FONTS */
+
+.yeseva-one-regular {
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-all {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h2 {
+    font-size: 3em;
+}
