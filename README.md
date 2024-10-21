@@ -8,4 +8,4 @@ Etant donné que le projet est un site web, les langages utilisés sont :
 * HTML
 * CSS
 
-Lien de consultation du projet : 
+Lien de consultation du projet : https://lurnot3k.github.io/Fil-Rouge-R109/
