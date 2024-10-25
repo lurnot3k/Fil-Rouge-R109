@@ -23,4 +23,4 @@ Etant donné que le projet est un site web, les langages utilisés sont :
 * Un ReadMe rédigé
 
 ## Accessibilité
-Lien de consultation du projet : https://r109.lurnot3k.fr/ ou https://lurnot3k.github.io/Fil-Rouge-R109/
+Lien de consultation du projet : https://lurnot3k.github.io/Fil-Rouge-R109/
